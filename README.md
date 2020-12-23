@@ -5,4 +5,4 @@ Ce projet contient 4 modules :
 - shred : permet de découper et mélanger une image; la passer à la broyeuse. 
 - colors : module secondaire utilisé pour ce projet. Il permet de rendre la valeur numérique d'une couleur détectée
 - pattern : module secondaite utilisé pour ce projet. Il permet de retirer les moments des patterns et la distances entre deux patterns
-- unshred: reconstitution de l'image en fonction des scores obtenus de compatibilité entre bandelettes.
+- unshred: reconstitution de l'image en fonction des scores obtenus de compatibilité entre bandelettes .
